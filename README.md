@@ -3,4 +3,4 @@ Smart metering dapat diimplementasikan oleh semua lapisan masyarakat yang menggu
 
 Karena system ini dapat mengirimkan informasi daya listrik melalui infrastruktur jaringan wireless sensor network.
 
-![UI](https://imgur.com/M8Cy2iJ)
+![Smart Metering Unit - Early Android UI](https://user-images.githubusercontent.com/57245267/134284586-d85c4b8b-fee0-4d42-a7ed-1ee37801d925.png)
